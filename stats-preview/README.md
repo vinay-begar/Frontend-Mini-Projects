@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/vinay-begar/Law-and-Justice)
-- Live Site URL: [Vercel Link](https://law-and-justice-sand.vercel.app/)
+- Live Site URL: [Vercel Link](https://stats-preview-ten-wheat.vercel.app/)
 
 
 ### Author

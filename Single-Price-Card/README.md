@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/akash-agasur/akash-single-price-flexbox)
-- Live Site URL: [vercel Link](https://akash-single-price-flexbox-gdq6.vercel.app/)
+- Solution URL: [Github](https://github.com/vinay-begar/Frontend-Mini-Projects/tree/main/Single-Price-Card)
+- Live Site URL: [vercel Link](https://single-price-card-dusky.vercel.app/)
 
 ### ScreenShot
 
@@ -13,7 +13,7 @@
 
 ### Author
 
-- [Akash-Agasur](https://www.linkedin.com/in/akash--agasur/)
+- [Vinay-Begar](https://www.linkedin.com/in/vinay-begar/)
 
 
 ### Built with

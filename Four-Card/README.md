@@ -13,7 +13,7 @@
 
 ### Author
 
-- [Vinay-Parit](https://www.linkedin.com/in/vinay-begar/)
+- [Vinay-Begar](https://www.linkedin.com/in/vinay-begar/)
 
 
 ### Built with
